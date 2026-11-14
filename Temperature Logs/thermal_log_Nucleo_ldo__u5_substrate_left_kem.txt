@@ -1,0 +1,982 @@
+ML-KEM Decryption: Temperature of Board Parts
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.62 °C | Raw: 0x019A
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.69 °C | Raw: 0x019B
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.75 °C | Raw: 0x019C
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.88 °C | Raw: 0x019E
+Substrate (Left from CPU) / Zone 7 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+LDO U5 / Zone 6 Temperature: 25.81 °C | Raw: 0x019D

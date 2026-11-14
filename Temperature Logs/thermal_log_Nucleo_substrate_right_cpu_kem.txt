@@ -1,0 +1,1135 @@
+>>> Execution RESUMED <<<
+ML-KEM Decryption: Temperature of Board Parts
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.25 °C | Raw: 0x01A4
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.25 °C | Raw: 0x01A4
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.25 °C | Raw: 0x01A4
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.25 °C | Raw: 0x01A4
+CPU / Zone 2 Temperature: 26.31 °C | Raw: 0x01A5
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.25 °C | Raw: 0x01A4
+CPU / Zone 2 Temperature: 26.31 °C | Raw: 0x01A5
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.25 °C | Raw: 0x01A4
+CPU / Zone 2 Temperature: 26.25 °C | Raw: 0x01A4
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.25 °C | Raw: 0x01A4
+CPU / Zone 2 Temperature: 26.19 °C | Raw: 0x01A3
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.25 °C | Raw: 0x01A4
+CPU / Zone 2 Temperature: 26.12 °C | Raw: 0x01A2
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.25 °C | Raw: 0x01A4
+CPU / Zone 2 Temperature: 26.12 °C | Raw: 0x01A2
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.25 °C | Raw: 0x01A4
+CPU / Zone 2 Temperature: 26.06 °C | Raw: 0x01A1
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.25 °C | Raw: 0x01A4
+CPU / Zone 2 Temperature: 26.06 °C | Raw: 0x01A1
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.25 °C | Raw: 0x01A4
+CPU / Zone 2 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.88 °C | Raw: 0x019E
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.81 °C | Raw: 0x019D
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.81 °C | Raw: 0x019D
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.81 °C | Raw: 0x019D
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.81 °C | Raw: 0x019D
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.06 °C | Raw: 0x01A1
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.06 °C | Raw: 0x01A1
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.06 °C | Raw: 0x01A1
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.06 °C | Raw: 0x01A1
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.06 °C | Raw: 0x01A1
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.06 °C | Raw: 0x01A1
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.06 °C | Raw: 0x01A1
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.06 °C | Raw: 0x01A1
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.06 °C | Raw: 0x01A1
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.06 °C | Raw: 0x01A1
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.06 °C | Raw: 0x01A1
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.50 °C | Raw: 0x0198
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.44 °C | Raw: 0x0197
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.38 °C | Raw: 0x0196
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.06 °C | Raw: 0x0191
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.06 °C | Raw: 0x0191
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.06 °C | Raw: 0x0191
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.12 °C | Raw: 0x0192
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.75 °C | Raw: 0x019C
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.19 °C | Raw: 0x0193
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.25 °C | Raw: 0x0194
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.31 °C | Raw: 0x0195
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 26.19 °C | Raw: 0x01A3
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 26.12 °C | Raw: 0x01A2
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 26.06 °C | Raw: 0x01A1
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.88 °C | Raw: 0x019E
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.81 °C | Raw: 0x019D
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.56 °C | Raw: 0x0199
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 0.00 °C | Raw: 0x0000
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.88 °C | Raw: 0x019E
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.81 °C | Raw: 0x019D
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.62 °C | Raw: 0x019A
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 25.94 °C | Raw: 0x019F
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.00 °C | Raw: 0x01A0
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.19 °C | Raw: 0x01A3
+CPU / Zone 2 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2
+CPU / Zone 2 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Substrate / Zone 1 Temperature: 26.12 °C | Raw: 0x01A2

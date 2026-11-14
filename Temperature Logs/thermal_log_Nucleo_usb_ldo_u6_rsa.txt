@@ -1,0 +1,234 @@
+>>> Execution RESUMED <<<
+RSA 
+Micro USB / Zone 4 Temperature: 26.06 °C | Raw: 0x01A1
+LDO / Zone 5 Temperature: 25.69 °C | Raw: 0x019B
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.06 °C | Raw: 0x01A1
+LDO / Zone 5 Temperature: 25.75 °C | Raw: 0x019C
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.12 °C | Raw: 0x01A2
+LDO / Zone 5 Temperature: 25.88 °C | Raw: 0x019E
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.12 °C | Raw: 0x01A2
+LDO / Zone 5 Temperature: 25.88 °C | Raw: 0x019E
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.19 °C | Raw: 0x01A3
+LDO / Zone 5 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.25 °C | Raw: 0x01A4
+LDO / Zone 5 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.25 °C | Raw: 0x01A4
+LDO / Zone 5 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.31 °C | Raw: 0x01A5
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.31 °C | Raw: 0x01A5
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.31 °C | Raw: 0x01A5
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.38 °C | Raw: 0x01A6
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.31 °C | Raw: 0x01A5
+LDO / Zone 5 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.31 °C | Raw: 0x01A5
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.38 °C | Raw: 0x01A6
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.38 °C | Raw: 0x01A6
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.38 °C | Raw: 0x01A6
+LDO / Zone 5 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.44 °C | Raw: 0x01A7
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.44 °C | Raw: 0x01A7
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.44 °C | Raw: 0x01A7
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.50 °C | Raw: 0x01A8
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.50 °C | Raw: 0x01A8
+LDO / Zone 5 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.56 °C | Raw: 0x01A9
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.56 °C | Raw: 0x01A9
+LDO / Zone 5 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.56 °C | Raw: 0x01A9
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 25.94 °C | Raw: 0x019F
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.69 °C | Raw: 0x01AB
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.69 °C | Raw: 0x01AB
+LDO / Zone 5 Temperature: 26.00 °C | Raw: 0x01A0
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 26.06 °C | Raw: 0x01A1
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 26.12 °C | Raw: 0x01A2
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 26.12 °C | Raw: 0x01A2
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 26.19 °C | Raw: 0x01A3
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 26.19 °C | Raw: 0x01A3
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 26.25 °C | Raw: 0x01A4
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.69 °C | Raw: 0x01AB
+LDO / Zone 5 Temperature: 26.31 °C | Raw: 0x01A5
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.69 °C | Raw: 0x01AB
+LDO / Zone 5 Temperature: 26.31 °C | Raw: 0x01A5
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 26.31 °C | Raw: 0x01A5
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 26.31 °C | Raw: 0x01A5
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 26.31 °C | Raw: 0x01A5
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.69 °C | Raw: 0x01AB
+LDO / Zone 5 Temperature: 26.38 °C | Raw: 0x01A6
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.62 °C | Raw: 0x01AA
+LDO / Zone 5 Temperature: 26.38 °C | Raw: 0x01A6
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.69 °C | Raw: 0x01AB
+LDO / Zone 5 Temperature: 26.38 °C | Raw: 0x01A6
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.69 °C | Raw: 0x01AB
+LDO / Zone 5 Temperature: 26.44 °C | Raw: 0x01A7
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.69 °C | Raw: 0x01AB
+LDO / Zone 5 Temperature: 26.44 °C | Raw: 0x01A7
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.69 °C | Raw: 0x01AB
+LDO / Zone 5 Temperature: 26.44 °C | Raw: 0x01A7
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.75 °C | Raw: 0x01AC
+LDO / Zone 5 Temperature: 26.44 °C | Raw: 0x01A7
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.81 °C | Raw: 0x01AD
+LDO / Zone 5 Temperature: 26.44 °C | Raw: 0x01A7
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.75 °C | Raw: 0x01AC
+LDO / Zone 5 Temperature: 26.50 °C | Raw: 0x01A8
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.81 °C | Raw: 0x01AD
+LDO / Zone 5 Temperature: 26.50 °C | Raw: 0x01A8
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.88 °C | Raw: 0x01AE
+LDO / Zone 5 Temperature: 26.56 °C | Raw: 0x01A9
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.81 °C | Raw: 0x01AD
+LDO / Zone 5 Temperature: 26.56 °C | Raw: 0x01A9
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.88 °C | Raw: 0x01AE
+LDO / Zone 5 Temperature: 26.56 °C | Raw: 0x01A9
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.81 °C | Raw: 0x01AD
+LDO / Zone 5 Temperature: 26.62 °C | Raw: 0x01AA
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.81 °C | Raw: 0x01AD
+LDO / Zone 5 Temperature: 26.56 °C | Raw: 0x01A9
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.75 °C | Raw: 0x01AC
+LDO / Zone 5 Temperature: 26.56 °C | Raw: 0x01A9
+----------------------------------------
+----------------------------------------
+Micro USB / Zone 4 Temperature: 26.81 °C | Raw: 0x01AD
+LDO / Zone 5 Temperature: 26.56 °C | Raw: 0x01A9
+----------------------------------------
+----------------------------------------
