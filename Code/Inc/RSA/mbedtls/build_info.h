@@ -1,0 +1,17 @@
+#ifndef MBEDTLS_BUILD_INFO_H
+#define MBEDTLS_BUILD_INFO_H
+
+#define MBEDTLS_IS_LITTLE_ENDIAN
+//#undef  MBEDTLS_IS_BIG_ENDIAN
+#define MBEDTLS_IS_BIG_ENDIAN 0
+
+#define MBEDTLS_BSWAP32(x) __builtin_bswap32(x)
+#define MBEDTLS_BSWAP64(x) __builtin_bswap64(x)
+
+#define MBEDTLS_STATIC_TESTABLE static
+#define MBEDTLS_CHECK_RETURN
+
+#define MBEDTLS_CONSTANT_TIME_C
+
+#define MBEDTLS_CT_ARM_ASM
+#endif
