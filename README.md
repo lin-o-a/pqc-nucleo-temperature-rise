@@ -12,12 +12,13 @@
 ---
 
 ## Time of Experiments
-20.02-20.10 substrate right (z1), CPU (z2)
-20.19 substrate below CPU (z3)
-20.50 D8 micro usb (z4), d7 ldo (z5)
-20.04 D8 micro usb (z4), d7 ldo (z5) ml-kem +  21.17 D8 micro usb (z4), d7 ldo (z5) rsa
-21.51 D8 LDO U5(z6), D7 Substrate left cpu (z7) kem + 22.07 D8 LDO U5(z6), D7 Substrate left cpu (z7) rsa
-22.27 idle z2 cpu + z7 substrate left
+- 20.02-20.10 substrate right (z1), CPU (z2)
+- 20.19 substrate below CPU (z3)
+- 20.50 D8 micro usb (z4), d7 ldo (z5)
+- 20.04 D8 micro usb (z4), d7 ldo (z5) ml-kem +  21.17 D8 micro usb (z4), d7 ldo (z5) rsa
+- 21.51 D8 LDO U5(z6), D7 Substrate left cpu (z7) kem + 22.07 D8 LDO U5(z6), D7 Substrate left cpu (z7) rsa
+- 22.27 idle z2 cpu + z7 substrate left
+
 8 minutes each zone
 
 ---
